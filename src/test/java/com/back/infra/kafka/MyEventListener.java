@@ -1,4 +1,5 @@
-package com.back.infra;
+package com.back.infra.kafka;
+
 
 import org.springframework.kafka.annotation.KafkaListener;
 import org.springframework.stereotype.Component;

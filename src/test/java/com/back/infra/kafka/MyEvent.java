@@ -1,4 +1,4 @@
-package com.back.infra;
+package com.back.infra.kafka;
 
 import com.back.standard.event.HaveEventName;
 

@@ -1,4 +1,5 @@
-package com.back.infra;
+package com.back.infra.kafka;
+
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
